@@ -4,5 +4,4 @@
 <p align="center">
 <img class="irc_mi" src="https://images.techhive.com/images/article/2016/02/swarms_of_hackers-100645207-large.jpg" alt="Hasil gambar untuk hacker" style="" width="415" height="463">
 </p>
-# Copyright & License
-  Copyright (c) 2019 Samuel Pasaribu GNU Public Lice
+
